@@ -7,9 +7,21 @@ navbar:
       href: index.html
     - text: "President"
       href: president.html
+    - text: "Vice President"
+      href: vp.html
+    - text: "Academic Affairs"
+      href: academic.html
+    - text: "Operations"
+      href: operations.html
+    - text: "Public Relations"
+      href: pr.html
+    - text: "Events"
+      href: events.html
+    - text: "Sports"
+      href: sports.html
 
 output:
   html_document:
     toc: true
     toc_float: true
-    css: styles.css
+    theme: yeti
