@@ -4,7 +4,7 @@
 Welcome to the official website for Yenching Academy's Graduate Student Union 2019 Election!
 <br><br>
 
-## Available Positions:
+## Available Positions
 * President
 * Vice President
 * Director of Academic Affairs
@@ -14,7 +14,7 @@ Welcome to the official website for Yenching Academy's Graduate Student Union 20
 * Director of Sports
 <br><br>
 
-## Election Timeline:
+## Election Timeline
 * **Friday, Oct 11** - Nomination periods ends
 * **Saturday, Oct 12** - Campaigning period starts
 * **Saturday, Oct 19** - Campaigning period ends / Candidates Forum
