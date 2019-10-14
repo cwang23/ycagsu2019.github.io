@@ -1,6 +1,9 @@
 ---
 title: "Home"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 Welcome to the official website for Yenching Academy's Graduate Student Union 2019 Election!
@@ -13,7 +16,7 @@ Welcome to the official website for Yenching Academy's Graduate Student Union 20
 * Director of Public Relations
 * Director of Events
 * Director of Sports
-
+<br><br>
 
 ## Election Timeline:
 * **Friday, Oct 11** - Nomination periods ends
@@ -22,15 +25,14 @@ Welcome to the official website for Yenching Academy's Graduate Student Union 20
 * **Sunday, Oct 20** - Voting period starts
 * **Monday, Oct 21** - Voting period ends
 * **Tuesday, Oct 22** - Election results announcement
-
+<br><br>
 
 ## Candidates' Forum Information
 The Candidates' Forum will be held on Saturday, October 19th from 18:00 to 20:00 in Erti (二体).
-
+<br><br>
 
 ## Questions? 
-Feel free to reach out to GSU Election Committee! Contact information below:
-
+Feel free to reach out to GSU Election Committee! Contact information below:<br>
 * Gabriel Wacks -- *GabrielWacks*
 * Ankang (Iris) Song -- *sak661837*
 * Zexin (Zachary) Chen -- *Finghin299*

@@ -21,4 +21,4 @@ navbar:
       href: sports.html
 output:
   html_document:
-    theme: lumen
+    theme: united
