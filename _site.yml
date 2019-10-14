@@ -1,0 +1,24 @@
+name: "yca_gsu_2019_election"
+output_dir: "."
+navbar:
+  title: "YCA Graduate Student Union 2019 Election"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "President"
+      href: president.html
+    - text: "Vice President"
+      href: vp.html
+    - text: "Director of Academic Affairs"
+      href: academic.html
+    - text: "Director of Operations"
+      href: operations.html
+    - text: "Director of Public Relations"
+      href: pr.html
+    - text: "Director of Events"
+      href: events.html
+    - text: "Director of Sports"
+      href: sports.html
+output:
+  html_document:
+    theme: lumen
