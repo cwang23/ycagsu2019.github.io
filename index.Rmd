@@ -1,9 +1,7 @@
 ---
-title: "Home"
 ---
 
-<br><br><br><br><br><br>
-Welcome to the official website for Yenching Academy's Graduate Student Union 2019 Election!
+# Welcome to the official website for Yenching Academy's Graduate Student Union 2019 Election!
 
 ## Available Positions:
 * President
@@ -30,11 +28,11 @@ The Candidates' Forum will be held on Saturday, October 19th from 18:00 to 20:00
 
 ## Questions? 
 Feel free to reach out to GSU Election Committee! Contact information below:
-<br>
+
 - Gabriel Wacks - *GabrielWacks*
 - Ankang (Iris) Song - *sak661837*
 - Zexin (Zachary) Chen - *Finghin299*
-- Gaochen Liu -- *liugaochen0906*
+- Gaochen Liu - *liugaochen0906*
 - Kanting (Michelle) Ting - *kantingtingg*
 - Steve Yang - *StevenYYH1823*
 - Thabiso Mphelane - *Proxylen*

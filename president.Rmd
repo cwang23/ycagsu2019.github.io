@@ -1,8 +1,6 @@
 ---
-title: "President"
 ---
 
-<br><br><br><br><br><br>
 # President
 The President represents all YCA students to the administration and PKU, and coordinates GSU events and activities.
 
