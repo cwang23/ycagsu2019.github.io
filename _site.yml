@@ -21,4 +21,6 @@ navbar:
       href: sports.html
 output:
   html_document:
-    theme: united
+    theme: yeti
+    toc: true
+    toc_float: true

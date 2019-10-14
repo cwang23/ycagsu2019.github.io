@@ -1,11 +1,8 @@
 ---
 title: "Home"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
 ---
 
+<br><br><br><br><br><br>
 Welcome to the official website for Yenching Academy's Graduate Student Union 2019 Election!
 
 ## Available Positions:
