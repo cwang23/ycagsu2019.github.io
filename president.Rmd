@@ -1,0 +1,30 @@
+---
+title: "President"
+output: 
+  html_document:
+    toc: true 
+    toc_float: true
+---
+# President
+The President represents all YCA students to the administration and PKU, and coordinates GSU events and 
+
+## 2019 Candidates
+
+### Yoneda Akihiro -- 5th cohort
+"Dear YCA family, my name is Yoneda Akihiro, and I am willing to dedicate time and energy to serving you as a President of YCA. The moment I immersed myself into this community, I fell in love with Yenching spirit, got stricken by its diversity that I can listen to, appreciate and relate to, got addicted to listening to the life stories, ideas and voices. I felt an urge to present myself to this vibrant community as a servant, as a friend and as an advocator.
+
+First, I am a Chinese native speaker, which will allow me to fluently deliver our messages and return the feedback from outside. Second, as an international student, 7 years of life in Chinese high school and university helped me to build a bridge between the global mindset and the culture of China. Third, I am a competition-driven person. Having been a team captain back in school and university, I remember the spirit of leading the team towards victory and recognition. As a leader, I can be a good listener and collaborative coordinator with my teammates, making sure we are serving the clear goal all together.
+
+And last, being a president of YCA, I will listen to everyone’s point of view and deliver a clear message to the outer community with my deep understanding of China, value of our goals and care for every single one in YCA."
+
+
+### Jun-Hyuk Lee (Michael) -- 4th cohort
+“As a student counsellor and proctor in school and a mentor in university, my peers have always been my top priority. The next GSU President will represent students at the table with the administration, but it should also work to better serve scholars in their aspirations whilst in China. With Kenneth He as my running mate, I envision that GSU 2019-2020 will be above all a team effort.
+
+Being a second-year YCA office assistant and having completed coursework, I am experienced and equipped to promote student interests. I am committed to leaving a structural legacy behind at YCA. I would create an alumni network for current students seeking career advice, a housing directory for scholars staying on for the second year, and negotiate a discount plan for scholars going to United Family hospitals.
+
+To foster inter-communal ties within YCA and the rest of PKU, the GSU would host more inter-PKU mixer events, institute Chinese-language happy hours, and make events such as the Winter Ball ticketed to expand accessibility and the availability of funds. The GSU will also organise volunteer trips during the vacations and on weekends, on top of the community happy hours it has led before.
+
+I also want to make guidelines on academics and extracurriculars at YCA more transparent. I would streamline orientation, clarify the criteria for clubs and funding, and revamp the extracurricular point system. Furthermore, I would negotiate enlargement of popular spring term courses and more continuous feedback from professors.
+
+*__If it’s Mike Lee, It’s Likely!”__*
